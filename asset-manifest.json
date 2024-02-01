@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/App-Name/static/css/main.c9a5ec33.css",
-    "main.js": "/App-Name/static/js/main.fe25a9a6.js",
-    "index.html": "/App-Name/index.html",
-    "main.c9a5ec33.css.map": "/App-Name/static/css/main.c9a5ec33.css.map",
-    "main.fe25a9a6.js.map": "/App-Name/static/js/main.fe25a9a6.js.map"
+    "main.css": "/Form/static/css/main.c9a5ec33.css",
+    "main.js": "/Form/static/js/main.fe25a9a6.js",
+    "index.html": "/Form/index.html",
+    "main.c9a5ec33.css.map": "/Form/static/css/main.c9a5ec33.css.map",
+    "main.fe25a9a6.js.map": "/Form/static/js/main.fe25a9a6.js.map"
   },
   "entrypoints": [
     "static/css/main.c9a5ec33.css",
